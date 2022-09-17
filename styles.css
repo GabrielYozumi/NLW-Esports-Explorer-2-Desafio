@@ -9,9 +9,9 @@ ul {
 }
 
 body{
-  background-image: url(./BG/Fundo2.png);
+  background-image: url(./BG/BG\ \(3\).jpg);
   background-position: top center;
-  background-size: 100% auto;
+  background-size: auto 100%;
   background-repeat: no-repeat;
   background-color: #121214;
 }
@@ -30,7 +30,7 @@ header div {
   width: 120px;
   margin: auto;
 
-  background: linear-gradient(343deg, rgba(255,0,243,1) 0%, rgba(0,191,255,1) 50%, rgba(255,0,0,1) 100%);
+  background: linear-gradient(343deg, rgba(0,67,255,1) 0%, rgba(173,35,255,1) 50%, rgba(250,60,241,1) 100%);
   border-radius: 8px;
 
   display: flex;
@@ -59,7 +59,7 @@ main {
 
 section {
   color: white;
-  background: linear-gradient(90deg, rgba(255,0,243,1) 0%, rgba(0,191,255,1) 50%, rgba(255,0,0,1) 100%);
+  background: linear-gradient(270deg, rgba(0,67,255,1) 0%, rgba(173,35,255,1) 50%, rgba(250,60,241,1) 100%);
   padding-top: 4px;
   border-radius: 10px;
 }
@@ -106,7 +106,7 @@ section ul li:hover {
   width: auto;
   height: auto;
   border-radius: 20px;
-  border:3px solid #b93bec;
+  border:3px solid #ad23ff;
 }
 
 .follow-list img {
@@ -115,7 +115,7 @@ section ul li:hover {
   width: auto;
   height: auto;
   border-radius: 20px;
-  border:3px solid #b93bec;
+  border:3px solid #ad23ff;
 }
 
 .complete-list img {
@@ -124,7 +124,7 @@ section ul li:hover {
   width: auto;
   height: auto;
   border-radius: 20px;
-  border:3px solid #b93bec;
+  border:3px solid #ad23ff;
 }
 
 .hiato-list img {
@@ -133,7 +133,7 @@ section ul li:hover {
   width: auto;
   height: auto;
   border-radius: 20px;
-  border:3px solid #b93bec;
+  border:3px solid #ad23ff;
 }
 
 .social-list {
