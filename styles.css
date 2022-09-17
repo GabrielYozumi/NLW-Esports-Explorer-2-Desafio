@@ -13,7 +13,7 @@ body{
   background-position: top center;
   background-size: auto 100%;
   background-repeat: no-repeat;
-  background-color: #121214;
+  background-color: #c04de4;
 }
 
 body * {
@@ -65,18 +65,19 @@ section {
 }
 
 .a{
-  background-color: #2A2634;
+  background-color: #0e1629;
   padding: 32px;
   border-radius: 8px;
 }
 
 section h2 {
   letter-spacing: -0,47px;
+  color: #d4d4d6;
 }
 
 section p {
   letter-spacing: -0.18px;
-  color: #A1A1AA;
+  color: #929293;
 }
 
 section ul {
